@@ -130,3 +130,7 @@ dmypy.json
 
 # Adding config.py file.
 api_keys.py
+
+# Adding random generator files
+API_practice.ipynb
+random_numbers.ipynb
