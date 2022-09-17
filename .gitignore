@@ -134,3 +134,7 @@ api_keys.py
 # Adding random generator files
 API_practice.ipynb
 random_numbers.ipynb
+
+#vscode settings
+.vscode/
+settings.json
